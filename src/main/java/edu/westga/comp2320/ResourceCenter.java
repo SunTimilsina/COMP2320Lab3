@@ -1,5 +1,6 @@
 package edu.westga.comp2320;
 
+import edu.westga.comp2320.events.CheckoutEvent;
 import edu.westga.comp2320.manager.ResourceManager;
 import edu.westga.comp2320.events.Event;
 
